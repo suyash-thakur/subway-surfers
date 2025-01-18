@@ -1,71 +1,71 @@
-# subway-surfers README
+# 🏃 SUBWAY SURFERS EXTENSION BUSSIN BUSSIN NO KIZZY 📱
 
-This is the README for your extension "subway-surfers". After writing up a brief description, we recommend including the following sections.
+SHEEEESH FAM! This extension straight up VALID fr fr - got you zooming through code while that subway surfers gameplay be hitting in the background, ON GOD! 😤
 
-## Features
+## FEATURES (REAL) (GONE WRONG) (POLICE CALLED) ⚡
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- Responses so fire they got that RIZZ when you save code (real) 💯
+- Subway Surfers gameplay in the back got me acting unwise fr fr 🏃‍♂️
+- Visual effects so clean they make Discord mods touch grass 🥶
+- UI design got that dawg in it, no cap respectfully 💅
 
-For example if there is an image subfolder under your extension project workspace:
+![subway rizz demo](images/demo.gif)
 
-\!\[feature X\]\(images/feature-x.png\)
+> NAH FR THO: This extension hitting harder than your mom's credit card on Black Friday! Peep that heat above! 🔥
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## REQUIREMENTS (3AM CHALLENGE) ⚠️
 
-## Requirements
+Just VSCode bestie, that's the tea! We stay valid and simple fr fr!
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## EXTENSION SETTINGS (GONE WRONG) (EMOTIONAL) ⚙️
 
-## Extension Settings
+These settings be bussin bussin frfr (deadass):
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+* `subwayRizz.enable`: Turn that heat on/off (default: ACTIVATED LIKE YOUR RIZZ 💯)
+* `subwayRizz.volume`: Control them subway vibes (default: SILENT LIKE YOUR DMS 💀)
 
-For example:
+## KNOWN ISSUES (NAH CUZ FR) 💀
 
-This extension contributes the following settings:
+- Sometimes it's TOO valid it crashes (skill issue tbh)
+- Productivity boutta make you employee of the century no cap (real)
+- Too much rizz might have rizz police at your door (working on it fr)
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+## RELEASE NOTES (EMOTIONAL) (GONE WRONG) 📈
 
-## Known Issues
+### 1.0.0 - THE FIRST W 🔥
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+- Initial drop bussin bussin respectfully
+- Added that gameplay loop (REAL) (GONE WRONG)
+- Responses got more sauce than Italian restaurant
+- Effects got that GYATT GYATT
 
-## Release Notes
+### 1.0.1 - THE GLOW UP NO KIZZY ⚡
 
-Users appreciate release notes as you update your extension.
+- Fixed them skill issues (couldn't be me fr)
+- Rizz levels increased (REAL)
 
-### 1.0.0
+### 1.1.0 - THE MEGA W 💅
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+- New features hitting harder than dad's belt
+- Optimized that gameplay loop on god fr fr
+- New responses got that extra GYATT GYATT
 
 ---
 
-## Following extension guidelines
+## EXTENSION GUIDELINES (REAL TALK NO CAP) 📚
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
+We followed them VSCode rules like we follow TikTok trends fr fr:
 * [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
-## Working with Markdown
+## HOW TO USE THIS README (NOT CLICKBAIT) 📝
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- Split editor faster than your parents split up with `Cmd+\` or `Ctrl+\` 
+- Preview markdown like you preview them DMs with `Shift+Cmd+V` or `Shift+Ctrl+V`
+- Hit `Ctrl+Space` for snippets that go harder than your gym routine fr fr
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## MORE INFO FOR THE REAL ONES (GONE VIRAL) 💯
 
-## For more information
+* [VSCode's Markdown Game Be Bussin](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Guide (ACTUALLY INSANE)](https://help.github.com/articles/markdown-basics/)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**ENJOY THE EXTENSION OR YOU'RE LITERALLY DOWN BAD FR FR! 🔥**

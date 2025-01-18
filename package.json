@@ -4,20 +4,21 @@
   "description": "NAH BRO JAKE GOT THAT GYATT AND RIZZ FR?! 😳 POV: YOU CAUGHT IN 8K DOING LEETCODE WHILE SUBWAY SURFING (REAL) (GONE WRONG) (GUARD IS LOWKEY THICC THO NGL) 🥵 FREE SUBWAY SURFERS HACK WORKING 2024 NO CAP FRFR BUSSIN RESPECTFULLY ON GOD?! 💀 JAKE AND TRICKY CAUGHT IN THE BACKROOMS AT 3AM (REAL) (THEY WERE DOING BINARY SEARCH) 🤨📸 SUBWAY GUARD SAID 'SKILL ISSUE' AND STARTED GRIDDY?! 🕺 FRESH CAUGHT LACKING IN OHIO STATE (REAL) (HE WAS STUDYING DSA) ⁉️ NO CLICKBAIT INFINITE SOCIAL CREDIT HACK WORKING 2024 BASED REDPILLED W RIZZ TUTORIAL 💯🔥 FREE FRESH DOWNLOAD (NOT VIRUS) (REAL) (MY MOM SAID ITS OKAY) 😈",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Other"
   ],
   "activationEvents": [
-    "onCommand:subway-surfers.helloWorld"
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
         "command": "subway-surfers.helloWorld",
-        "title": "🏃 ACTIVATE SUBWAY RIZZ MODE (REAL) (GONE WRONG) 📱"
+        "title": "🏃 ACTIVATE SUBWAY RIZZ MODE (REAL) (GONE WRONG) 📱",
+        "category": "Subway Rizz"
       }
     ]
   },
@@ -34,16 +35,15 @@
     "@types/mocha": "^10.0.10",
     "@types/node": "^16.x.x",
     "@types/vscode": "^1.96.0",
-    "@typescript-eslint/eslint-plugin": "^8.17.0",
-    "@typescript-eslint/parser": "^8.17.0",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1",
-    "eslint": "^9.16.0",
-    "typescript": "^4.x.x"
+    "eslint": "^8.52.0",
+    "typescript": "^5.2.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/subway-surfers.git"
-  },
-  "publisher": "your-publisher-name"
+  "repository": "https://github.com/suyash-thakur/subway-surfers",
+  "publisher": "suyash-thakur",
+  "private": false,
+  "license": "MIT"
 }

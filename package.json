@@ -1,0 +1,49 @@
+{
+  "name": "subway-surfers-rizz-mode",
+  "displayName": "🏃 SUBWAY RIZZ SIMULATOR NO WAY FR FR 📱",
+  "description": "NAH BRO JAKE GOT THAT GYATT AND RIZZ FR?! 😳 POV: YOU CAUGHT IN 8K DOING LEETCODE WHILE SUBWAY SURFING (REAL) (GONE WRONG) (GUARD IS LOWKEY THICC THO NGL) 🥵 FREE SUBWAY SURFERS HACK WORKING 2024 NO CAP FRFR BUSSIN RESPECTFULLY ON GOD?! 💀 JAKE AND TRICKY CAUGHT IN THE BACKROOMS AT 3AM (REAL) (THEY WERE DOING BINARY SEARCH) 🤨📸 SUBWAY GUARD SAID 'SKILL ISSUE' AND STARTED GRIDDY?! 🕺 FRESH CAUGHT LACKING IN OHIO STATE (REAL) (HE WAS STUDYING DSA) ⁉️ NO CLICKBAIT INFINITE SOCIAL CREDIT HACK WORKING 2024 BASED REDPILLED W RIZZ TUTORIAL 💯🔥 FREE FRESH DOWNLOAD (NOT VIRUS) (REAL) (MY MOM SAID ITS OKAY) 😈",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:subway-surfers.helloWorld"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "subway-surfers.helloWorld",
+        "title": "🏃 ACTIVATE SUBWAY RIZZ MODE (REAL) (GONE WRONG) 📱"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/dom-webcodecs": "^0.1.13",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^16.x.x",
+    "@types/vscode": "^1.96.0",
+    "@typescript-eslint/eslint-plugin": "^8.17.0",
+    "@typescript-eslint/parser": "^8.17.0",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.4.1",
+    "eslint": "^9.16.0",
+    "typescript": "^4.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/subway-surfers.git"
+  },
+  "publisher": "your-publisher-name"
+}
